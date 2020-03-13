@@ -3,3 +3,6 @@ It was his first day to UW-Madison, Peter is very nervous as well as excited to 
 a computer scientist. In his first semester, he took a good number of programming and math courses.
 His first course was cs300. Peter was very excited to begin learning. He showed up to lecture on the first day with his laptop and
 notebook, ready to begin learning. He sat down in the middle of the lecture hall and awaited class to begin.
+The professor begins to lecture, and write, and not explain any of the definitions or his work in any intelligable detail, since he
+is a math professor, and not an English one. Peter was very put out, and decided to go for a quick break. Peter pondered on if he
+should continue to take this class, or drop it. What would he do?
