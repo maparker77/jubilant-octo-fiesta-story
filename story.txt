@@ -6,3 +6,4 @@ notebook, ready to begin learning. He sat down in the middle of the lecture hall
 The professor begins to lecture, and write, and not explain any of the definitions or his work in any intelligable detail, since he
 is a math professor, and not an English one. Peter was very put out, and decided to go for a quick break. Peter pondered on if he
 should continue to take this class, or drop it. What would he do?
+Peter decided to look online for tutorials for computer science, and wouldn't you know it? The web is filled with great program tutorials. It seemed that there would be no need to drop the class after all.
